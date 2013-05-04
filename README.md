@@ -1,7 +1,7 @@
 PhoneSense
 ==========
 
-A sensing framework for mobile devices.
+A sensing framework for Android devices.
 
 This project was developed as part of the CSE534: Advanced Mobile Computing Course at [IIIT-Delhi] (http://www.iiitd.ac.in).
 
